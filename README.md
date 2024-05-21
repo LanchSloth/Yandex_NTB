@@ -1,4 +1,4 @@
-# Yandex-Cloud-Network-Load-Balancer**
+# Yandex-Cloud-Network-Load-Balancer
 
 ## Задание:
 * [x] - :one: ~~Добавить в проект Network Load Balancer таким образом, чтобы за ним были созданные нами инстансы.~~
